@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GreenBook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Green Book</string>
+    <string name="nav_header_subtitle">Media and Apps Pvt. Ltd.</string>
+    <string name="nav_header_email">www.greenbooklabs.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">About Us</string>
+    <string name="menu_slideshow">Company</string>
+    <string name="menu_tools">Clients</string>
+    <string name="menu_share">Contact Us</string>
+    <string name="menu_send">Send Us a Message</string>
+    <string name="edit_name">Your Name*</string>
+    <string name="edit_email">Your Email*</string>
+    <string name="edit_subject">Your Subject</string>
+    <string name="edit_message">Your Message*</string>
+</resources>
